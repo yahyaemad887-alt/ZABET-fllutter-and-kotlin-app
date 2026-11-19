@@ -1,1 +1,1 @@
-﻿Commit #758 | module=ui | optimize widget rebuilds and layout | ts=2026-11-19T12:25:51
+﻿Commit #759 | module=notifications | update localization keys and formatting | ts=2026-11-19T12:26:51
