@@ -1,1 +1,1 @@
-﻿Commit #257 | module=storage | polish spacing, colors, and typography | ts=2026-11-19T04:02:35
+﻿Commit #258 | module=ui | enhance lifecycle and resource cleanup | ts=2026-11-19T04:03:35
