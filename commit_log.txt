@@ -1,1 +1,1 @@
-﻿Commit #868 | module=ui | improve persistence and error checks | ts=2026-11-19T14:16:18
+﻿Commit #869 | module=notifications | polish spacing, colors, and typography | ts=2026-11-19T14:17:18
