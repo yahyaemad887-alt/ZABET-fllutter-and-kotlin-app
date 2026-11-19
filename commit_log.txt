@@ -1,1 +1,1 @@
-﻿Commit #394 | module=tests | improve persistence and error checks | ts=2026-11-19T06:20:14
+﻿Commit #395 | module=ads | polish spacing, colors, and typography | ts=2026-11-19T06:21:14
