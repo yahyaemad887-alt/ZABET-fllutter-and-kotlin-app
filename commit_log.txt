@@ -1,1 +1,1 @@
-﻿Commit #1128 | module=ui | enhance lifecycle and resource cleanup | ts=2026-11-19T18:37:26
+﻿Commit #1129 | module=notifications | refine state handling and validation | ts=2026-11-19T18:38:26
