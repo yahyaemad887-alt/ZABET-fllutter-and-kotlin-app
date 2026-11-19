@@ -1,1 +1,1 @@
-﻿Commit #876 | module=localization | enhance lifecycle and resource cleanup | ts=2026-11-19T14:24:20
+﻿Commit #877 | module=storage | refine state handling and validation | ts=2026-11-19T14:25:20
