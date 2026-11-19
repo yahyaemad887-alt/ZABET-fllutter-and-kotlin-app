@@ -1,1 +1,1 @@
-﻿Commit #826 | module=localization | improve persistence and error checks | ts=2026-11-19T13:34:08
+﻿Commit #827 | module=storage | polish spacing, colors, and typography | ts=2026-11-19T13:35:08
