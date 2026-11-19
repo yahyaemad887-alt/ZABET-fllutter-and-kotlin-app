@@ -1,1 +1,1 @@
-﻿Commit #465 | module=ads | update localization keys and formatting | ts=2026-11-19T07:31:34
+﻿Commit #466 | module=localization | improve persistence and error checks | ts=2026-11-19T07:32:34
