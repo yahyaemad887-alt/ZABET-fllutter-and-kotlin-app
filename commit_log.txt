@@ -1,1 +1,1 @@
-﻿Commit #572 | module=workouts | optimize widget rebuilds and layout | ts=2026-11-19T09:19:02
+﻿Commit #573 | module=timer | update localization keys and formatting | ts=2026-11-19T09:20:02
