@@ -1,1 +1,1 @@
-﻿Commit #1119 | module=notifications | update localization keys and formatting | ts=2026-11-19T18:28:24
+﻿Commit #1120 | module=audio | improve persistence and error checks | ts=2026-11-19T18:29:24
