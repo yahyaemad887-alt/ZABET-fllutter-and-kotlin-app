@@ -1,1 +1,1 @@
-﻿Commit #305 | module=ads | polish spacing, colors, and typography | ts=2026-11-19T04:50:49
+﻿Commit #306 | module=localization | enhance lifecycle and resource cleanup | ts=2026-11-19T04:51:49
