@@ -1,1 +1,1 @@
-﻿Commit #800 | module=audio | optimize widget rebuilds and layout | ts=2026-11-19T13:08:01
+﻿Commit #802 | module=workouts | improve persistence and error checks | ts=2026-11-19T13:10:02
