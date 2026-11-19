@@ -1,1 +1,1 @@
-﻿Commit #596 | module=localization | optimize widget rebuilds and layout | ts=2026-11-19T09:43:07
+﻿Commit #597 | module=storage | update localization keys and formatting | ts=2026-11-19T09:44:08
