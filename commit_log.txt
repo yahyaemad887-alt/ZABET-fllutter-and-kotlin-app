@@ -1,1 +1,1 @@
-﻿Commit #1015 | module=ads | refine state handling and validation | ts=2026-11-19T16:43:57
+﻿Commit #1018 | module=ui | improve persistence and error checks | ts=2026-11-19T16:46:57
