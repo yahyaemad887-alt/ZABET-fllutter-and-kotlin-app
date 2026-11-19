@@ -1,1 +1,1 @@
-﻿Commit #1087 | module=storage | refine state handling and validation | ts=2026-11-19T17:56:15
+﻿Commit #1089 | module=notifications | update localization keys and formatting | ts=2026-11-19T17:58:16
