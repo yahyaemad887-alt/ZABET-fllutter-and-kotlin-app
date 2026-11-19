@@ -1,1 +1,1 @@
-﻿Commit #281 | module=diet | polish spacing, colors, and typography | ts=2026-11-19T04:26:42
+﻿Commit #282 | module=workouts | enhance lifecycle and resource cleanup | ts=2026-11-19T04:27:43
