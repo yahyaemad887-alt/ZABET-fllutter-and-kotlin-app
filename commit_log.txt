@@ -1,1 +1,1 @@
-﻿Commit #850 | module=audio | improve persistence and error checks | ts=2026-11-19T13:58:13
+﻿Commit #851 | module=diet | polish spacing, colors, and typography | ts=2026-11-19T13:59:14
