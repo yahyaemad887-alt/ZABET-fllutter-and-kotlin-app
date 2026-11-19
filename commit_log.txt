@@ -1,1 +1,1 @@
-﻿Commit #864 | module=tests | enhance lifecycle and resource cleanup | ts=2026-11-19T14:12:17
+﻿Commit #865 | module=ads | refine state handling and validation | ts=2026-11-19T14:13:17
