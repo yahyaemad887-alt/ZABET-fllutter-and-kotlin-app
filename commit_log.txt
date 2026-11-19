@@ -1,1 +1,1 @@
-﻿Commit #777 | module=storage | update localization keys and formatting | ts=2026-11-19T12:44:56
+﻿Commit #778 | module=ui | improve persistence and error checks | ts=2026-11-19T12:45:56
