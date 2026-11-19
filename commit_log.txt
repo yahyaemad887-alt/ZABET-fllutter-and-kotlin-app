@@ -1,1 +1,1 @@
-﻿Commit #921 | module=diet | update localization keys and formatting | ts=2026-11-19T15:09:32
+﻿Commit #922 | module=workouts | improve persistence and error checks | ts=2026-11-19T15:10:32
