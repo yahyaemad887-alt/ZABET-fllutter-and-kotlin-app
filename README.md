@@ -65,7 +65,7 @@
 
 ---
 APK LINK
-https://drive.google.com/file/d/1Skm98N-UQUQU4s4omglb-4VgGeA8g7U6/view
+https://drive.google.com/file/d/1WJiHLBWKd-guZ4YkRUTwyU9QZTfTQI6Q/view?usp=drivesdk
 
 ## 🚀 Getting Started
 
