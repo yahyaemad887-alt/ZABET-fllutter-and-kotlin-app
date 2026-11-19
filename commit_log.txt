@@ -1,1 +1,1 @@
-﻿Commit #974 | module=tests | optimize widget rebuilds and layout | ts=2026-11-19T16:02:46
+﻿Commit #975 | module=ads | update localization keys and formatting | ts=2026-11-19T16:03:46
